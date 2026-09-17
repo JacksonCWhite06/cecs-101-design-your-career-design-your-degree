@@ -52,7 +52,7 @@ Distribute these courses across your four years, respecting prerequisite sequenc
 | AI 311 — AI for Cybersecurity | AI 101 or AI 102 or AI 111 | Cybersecurity core; AI TOPS option |
 | CYBR 460 — Cybersecurity Policy Frameworks | No course prerequisite listed | Cybersecurity core |
 | AI 101 — Introduction to the World of AI | Currently enrolled | Current; AI core |
-| AI 102 — Natural Language-based Programming Techniques | Confirm registration requirements for current enrollment | Current; AI core |
+| AI 102 — Natural Language-based Programming Techniques | currently enrolled | Current; AI core |
 | CECS 250 — Computational and Mathematical Tools for Data Science and Applied Artificial Intelligence | Restricted to CECS majors | AI requirement in the catalog |
 | AI 201 — AI, Ethics, and Legal Frameworks | AI 101 or AI 102 or AI 111 | AI core |
 | AI 202 — Human-AI Interaction and Experience Design | AI 101 or AI 102 or AI 111 | AI core |
