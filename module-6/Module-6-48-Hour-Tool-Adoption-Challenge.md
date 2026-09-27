@@ -1,6 +1,8 @@
 # 48-Hour Tool Adoption Challenge
 ### Building Adaptability in the Age of AI
 
+> **Draft — not submitted.** Prepared for Jackson White using an AI note-taker and study assistant with CYBR 101 Chapter 8. The student has not yet used the tool. Session dates, journal entries, evidence, and reflection remain pending actual use. [Open the study-assistant preparation pack](chapter-8-study-assistant.md).
+
 Technology doesn't wait for you to feel ready. New tools — especially AI-powered ones — show up constantly, and the people who thrive are the ones who can learn them quickly instead of avoiding them. This assignment puts you in that exact situation on purpose: you'll pick an unfamiliar tool, give yourself only 48 hours to get functional with it, and pay close attention to *how* you learn, not just *what* you learn.
 
 ---
@@ -25,11 +27,11 @@ Select a tool or app you have **never used before**. It should be:
 
 **Need ideas?** Ask your instructor for a list of suggested tools, or propose your own for approval before starting the clock.
 
-**Tool I am using:** Canva AI — simulated learning scenario written by AI; the journal and reflection below are fictional examples, not activities I actually completed.
+**Tool I am using:** NotebookLM (called Gemini Notebook in Google's current help documentation), used to create and verify Chapter 8 study materials.
 
-**Date/Time I am starting my 48 hours:** September 23, 2026, at 5:55 p.m. Eastern (simulated)
+**Date/Time I am starting my 48 hours:** Pending — record when I begin using the tool, with time zone.
 
-**Date/Time my 48 hours ends:** September 25, 2026, at 5:55 p.m. Eastern (simulated)
+**Date/Time my 48 hours ends:** Pending — exactly 48 hours after the recorded start.
 
 ---
 
@@ -42,7 +44,7 @@ Before you start learning, decide what "success" looks like. Choose **one** of t
 
 Write a one-sentence description of your specific goal:
 
-> Learn to use Canva AI to create and revise a five-slide presentation explaining the basic science of fermentation in language a classmate could understand.
+> Learn to use an unfamiliar AI note-taker and study assistant to create a source-checked CYBR 101 Chapter 8 study guide, 10 flashcards, and a 10-question practice quiz, then use the quiz to identify topics I need to review.
 
 ---
 
@@ -60,23 +62,29 @@ For each entry, note:
 - **What helped** (a tutorial, a friend, trial and error, reading the FAQ, something else?)
 - **How you felt** (be honest — overwhelmed, curious, bored, excited, embarrassed, etc.)
 
-**Journal Entry 1** — *(shortly after starting)*
-- What I tried: I asked Canva AI for a five-slide introduction to fermentation and looked through the first draft.
-- What was confusing or frustrating: The result looked more finished than it really was. Some slides had too much text, and I was unsure which parts I should rewrite first.
-- What helped: Breaking the topic into five parts before asking again: an introduction, yeast, sugar, factors affecting fermentation, and a summary.
-- How I felt: Curious about the topic, but a little impatient because I expected the first draft to need fewer changes.
+**Journal Entry 1** — *(shortly after starting; complete after the session)*
+- Actual date/time and session length: Pending.
+- What I tried: Pending actual use.
+- What was confusing or frustrating: Pending my observation.
+- What helped: Pending my observation.
+- How I felt: Pending my own words.
+- Evidence or prompt/output saved: Pending.
 
-**Journal Entry 2** — *(partway through)*
-- What I tried: I shortened the explanations and practiced changing the text and layout on one slide.
-- What was confusing or frustrating: When I added an explanation, the slide became crowded again. I kept switching between making it look good and making it understandable.
-- What helped: Finishing the wording first, then adjusting the layout. I also compared the science claims with introductory biology material.
-- How I felt: Less lost than in the first session, although I was annoyed by how long small edits could take.
+**Journal Entry 2** — *(partway through; complete after the session)*
+- Actual date/time and session length: Pending.
+- What I tried: Pending actual use.
+- What was confusing or frustrating: Pending my observation.
+- What helped: Pending my observation.
+- How I felt: Pending my own words.
+- Evidence or prompt/output saved: Pending.
 
-**Journal Entry 3** — *(near the end)*
-- What I tried: I reviewed all five slides, read them aloud, and practiced explaining the presentation without reading every word.
-- What was confusing or frustrating: A sentence could look fine on the slide but sound awkward when I said it. I also noticed that one slide repeated a point I had already explained.
-- What helped: Reading aloud, removing repeated information, and keeping each slide focused on one main idea.
-- How I felt: More comfortable with the basic editing process and relieved to have a clear stopping point.
+**Journal Entry 3** — *(near the end; complete after the session)*
+- Actual date/time and session length: Pending.
+- What I tried: Pending actual use.
+- What was confusing or frustrating: Pending my observation.
+- What helped: Pending my observation.
+- How I felt: Pending my own words.
+- Evidence or prompt/output saved: Pending.
 
 *(Add more entries if you'd like — more honest detail is better than fewer, vague ones.)*
 
@@ -87,8 +95,8 @@ For each entry, note:
 By the end of the 48 hours, complete the goal you set in Step 2.
 
 **If you completed a small task:**
-- Briefly describe what you made or did: In this fictional scenario, I created a five-slide introduction to fermentation, revised the AI-generated wording, and practiced explaining the slides to a classmate. The focus was learning Canva, not completing a fermentation batch.
-- Attach or link your finished task (screenshot, file, link, etc.) if applicable: No actual Canva presentation or completion evidence was created for this simulated journal.
+- Briefly describe what you made or did: Pending completion. Planned output: a checked Chapter 8 study guide, 10 flashcards, and a 10-question quiz with my actual answers and corrections.
+- Attach or link your finished task (screenshot, file, link, etc.) if applicable: Pending actual tool outputs. The [preparation pack](chapter-8-study-assistant.md) is a starting guide, not completion evidence.
 
 **If you taught a classmate:**
 - Who did you teach, and how (in person, video call, written guide)?
@@ -107,7 +115,7 @@ Write a reflection of **8–12 sentences** responding to the following:
 - How might this same approach help you the next time a new tool, app, or AI system shows up unexpectedly at school or work?
 
 **My Reflection:**
-At first, I thought the hardest part would be understanding fermentation, but getting the presentation to look the way I wanted took more effort than I expected. I kept trying to fix the whole design at once, which made it harder to tell whether I was improving anything. The strategy that helped most was working on one slide at a time and making one specific change before moving on. That gave me a small problem I could actually solve instead of a screen full of things that looked unfinished. Giving the AI a more specific prompt also helped because my first request left too much open to interpretation. I still had to read the text carefully and check the science instead of assuming a polished slide meant the explanation was correct. My frustration eased once I had one slide that looked clear and could use it as a model for the others. I liked having fermentation as the topic because I was curious about it before starting the assignment. In this scenario, the biggest lesson was that experimenting with a small, clear goal made learning under pressure more manageable. That approach would also be useful when learning cybersecurity tools, where I would want to understand and check the results instead of just getting something to run.
+Pending the end of the actual 48-hour challenge. Write 8–12 sentences based on the completed journal. A useful ten-sentence structure is: (1) initial difficulty, (2) a specific example, (3) the strategy tried, (4) why it helped, (5) a source-checking result, (6) initial feelings, (7) later feelings, (8) what the quiz revealed, (9) what I learned about learning under pressure, and (10) how I will apply that approach next time. This outline is not the final reflection.
 
 ---
 
@@ -122,3 +130,5 @@ Before submitting, make sure you have included:
 - [ ] Your final reflection (8–12 sentences)
 
 💡 **Reminder:** This assignment isn't graded on how "impressive" the tool is or how polished your finished task looks. It's graded on the honesty and depth of your reflection about *how you adapted* — struggle and all.
+
+**AI assistance disclosure:** Codex prepared the project plan, prompts, reference sheet, and blank journal structure. Personal experiences, scores, dates, and the final reflection have not been invented and must be supplied after actual tool use.
